@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './slot2/Mapping/App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import MyButton from './slot2/component/myButton.jsx';
 // import MySection from './slot2/component/MySection.jsx';

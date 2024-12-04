@@ -18,7 +18,7 @@ const App = () => {
             </ul>
             <h2>Object</h2>
             <ul>
-                {Object.keys(object).map((i) => (<li key={i}>{i} : <strong>{object[i]}</strong></li>))}
+                {Object.keys(object).map((i) => (<li key={i}>{i} : <strong>{object[i]}</strong> </li> ))}
             </ul>
         </section>
 
