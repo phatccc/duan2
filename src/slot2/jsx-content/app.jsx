@@ -6,5 +6,4 @@ const App = () => {
     <p>Hello , <strong>JSX</strong></p>
   )
 }
-
 export default App;
