@@ -7,7 +7,7 @@ const App = () => {
     return (
         <section>
             <button disabled={!enable}>{text}</button>
-            <input type="text" placeholder={playholder} />
+            <input type="text" placeholder={playholder} size={size} />
         </section>
     )
 }
